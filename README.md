@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Tensorflow and computer vision**
 
+- 📫 How to reach me **rehan.irfan2002@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/r3hankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="r3hankhan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/r3hankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="r3hankhan" height="30" width="40" /></a>
 <a href="https://kaggle.com/r3hankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="r3hankhan" height="30" width="40" /></a>
 </p>
 
