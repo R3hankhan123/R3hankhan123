@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rehan Khan</h1>
-<h3 align="center">A passionate app developer and AI/ML enthusiast. Here you can find some of the projects I have or currently working on. I love to collaborate so feel free to connecy</h3>
+<h3 align="center">A passionate app developer and AI/ML enthusiast. Here you can find some of the projects I have or currently working on. I love to collaborate so feel free to connect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3hankhan123&label=Profile%20views&color=0e75b6&style=flat" alt="r3hankhan123" /> </p>
 
