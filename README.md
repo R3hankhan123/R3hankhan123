@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Rehan Khan</h1>
-<h3 align="center">🔧 I build systems that run models not demo notebooks that break outside Jupytero</h3>
+<h3 align="center">🔧 I build systems that run models not demo notebooks that break outside Jupyter</h3>
 
 ---
  
