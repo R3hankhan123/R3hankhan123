@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Rehan Khan</h1>
-<h3 align="center">🔧 I build systems that run models — not demo notebooks that break outside Jupyter</h3>
+<h3 align="center">🔧 I build systems that run models not demo notebooks that break outside Jupyter</h3>
 
 <p align="center">
   <b>SDE @ IBM</b> · 📍 Bengaluru, India
@@ -13,7 +13,7 @@
 - 🔩 Bend **vLLM** into places it wasn't designed for
 - 🔥 Teach **PyTorch** new hardware tricks via **torch-spyre**
 - 🗜️ Shrink models with **quantization** (INT8 / FP8) so they fit and fly on CPUs and accelerators
-- 🏗️ Fix build systems across architectures (x86_64, **s390x**)
+- 🏗️ Fix build systems across architectures (x86_64, aarch64, **s390x**)
 - 📦 Make multi-arch containers actually behave
 
 ---
@@ -59,9 +59,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=r3hankhan123&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="r3hankhan123 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3hankhan123&layout=compact&theme=tokyonight" alt="r3hankhan123 top languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=r3hankhan123&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="r3hankhan123 stats" /></p>
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=r3hankhan123&theme=tokyonight" alt="r3hankhan123 streak" />
 </p>
